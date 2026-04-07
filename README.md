@@ -1,16 +1,13 @@
-## Hi there 👋
+# Aryan
 
-<!--
-**Aryan-Raj3112/Aryan-Raj3112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build native Android apps with Kotlin and Jetpack Compose.
 
-Here are some ideas to get you started:
+I am currently working on **Episteme Reader**, an open source Android reader for documents and ebooks.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am open to contract, part-time, and full-time opportunities.
+
+## Stack
+Kotlin · Jetpack Compose
+
+## Contact
+aryan1664.936@gmail.com
