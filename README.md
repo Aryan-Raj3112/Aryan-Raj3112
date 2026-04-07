@@ -1,5 +1,3 @@
-# Aryan
-
 I build native Android apps with Kotlin and Jetpack Compose.
 
 I am currently working on **Episteme Reader**, an open source Android reader for documents and ebooks.
